@@ -8,7 +8,7 @@ Olá! Eu sou Breno Cocheto 👋
 </div>
 
  <div>
-  <a href="https://github.com/GabrielT98">
+  <a href="https://github.com/bcocheto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bcocheto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcocheto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
