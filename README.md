@@ -1,9 +1,9 @@
 Olá! Eu sou Breno Cocheto 👋
 
 <div>
-- Estudante de Engenharia de Software - Universidade de Vassouras
+- Engenheiro de Software
   <br>
-- Developer front/mobile
+- Desenvolvedor de Software
   
 </div>
 
