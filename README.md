@@ -1,6 +1,6 @@
 <div align="center">
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status - Últimas 24h](./profile-3d-contrib/profile-night-rainbow.svg)
 
 # 👨‍💻 Breno Cocheto
 
@@ -11,8 +11,6 @@ Desenvolvedor Frontend apaixonado por interfaces modernas, acessíveis e perform
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/bcocheto)
 
 </div>
-
----
 
 ## 🎨 Frontend & Design
 
@@ -89,5 +87,3 @@ Desenvolvedor Frontend apaixonado por interfaces modernas, acessíveis e perform
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bcocheto&theme=discord" />
 </div>
-
----
