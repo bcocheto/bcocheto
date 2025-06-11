@@ -5,7 +5,65 @@
 
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+ <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=dart" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=graphql" />
+  <br />
+    <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=materialui" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <br />
+  <!-- Backend & DevOps -->
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=npm" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=yarn" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" />
+  <img src="https://skillicons.dev/icons?i=grafana" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <br />
+  <!-- Banco de Dados -->
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <br />
+    <!-- IA & Visão Computacional -->
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <br />
+  <!-- Redes Sociais -->
+<a href="https://www.linkedin.com/in/bcocheto/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://www.instagram.com/_damask_/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://github.com/bcocheto" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 </a>
   <br />
 
