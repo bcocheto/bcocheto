@@ -1,0 +1,27 @@
+name: GitHub-Profile-3D-Contrib-Monthly
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # 00:00 UTC
+    - cron: "0 8 * * *"    # 08:00 UTC
+    - cron: "0 16 * * *"   # 16:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Monthly 3D Contribution Chart
+    steps:
+      - uses: actions/checkout@v2
+      - uses: bcocheto/github-profile-3d-contrib@0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: "./settings/monthly.json"
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "monthly generated"
+          git push
