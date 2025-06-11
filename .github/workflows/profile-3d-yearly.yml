@@ -1,0 +1,25 @@
+name: GitHub-Profile-3D-Contrib-Yearly
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Yearly 3D Contribution Chart
+    steps:
+      - uses: actions/checkout@v2
+      - uses: bcocheto/github-profile-3d-contrib@0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          YEAR: "2025"
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "yearly generated"
+          git push
