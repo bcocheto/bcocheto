@@ -3,9 +3,16 @@
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 # Breno Cocheto
-**Frontend Developer** • Interfaces modernas, acessíveis e performáticas
+**Engenheiro Fullstack & DevOps | Dados e IA**
 
-Construo produtos digitais conectando **UX**, **engenharia** e **dados** para gerar impacto real.
+Projeto, implemento e opero produtos digitais ponta a ponta.
+Da experiência do usuário ao backend, infraestrutura e inteligência aplicada a dados.
+
+</div>
+
+## Conecte-se
+
+<div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bcocheto/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/bcocheto)
@@ -16,21 +23,15 @@ Construo produtos digitais conectando **UX**, **engenharia** e **dados** para ge
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,typescript,javascript,tailwind,vite,nodejs,python,pandas,docker,postgres,figma,git" />
+  <img src="https://skillicons.dev/icons?i=react,vue,typescript,javascript,nodejs,ruby,rails,postgres,redis,docker,kubernetes,aws,terraform,python,pandas,tensorflow,pytorch,tailwind,git,githubactions" />
 </div>
-
-## Foco atual
-
-- Frontend com UX consistente, performance e acessibilidade.
-- CRM/atendimento com integrações em tempo real.
-- Visualização de dados e IA aplicada a produto.
 
 ## GitHub Insights
 
 <div align="center">
 
-[![Detalhes](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bcocheto&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Detalhes](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bcocheto&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Produtividade](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bcocheto&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Produtividade](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bcocheto&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
