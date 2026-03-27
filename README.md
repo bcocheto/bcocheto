@@ -3,10 +3,10 @@
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 # Breno Cocheto
-**Engenheiro Fullstack & DevOps | Dados e IA**
+**Engenheiro de Software Full Stack | Arquitetura, Integrações e DevOps**
 
-Projeto, implemento e opero produtos digitais ponta a ponta.
-Da experiência do usuário ao backend, infraestrutura e inteligência aplicada a dados.
+Desenvolvo, integro e sustento aplicações web e ecossistemas de software ponta a ponta.  
+Atuo com foco em desenvolvimento full stack, arquitetura de soluções, automações, APIs, infraestrutura e operação.
 
 </div>
 
@@ -23,8 +23,17 @@ Da experiência do usuário ao backend, infraestrutura e inteligência aplicada 
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,typescript,javascript,nodejs,ruby,rails,postgres,redis,docker,kubernetes,aws,terraform,python,pandas,tensorflow,pytorch,tailwind,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=react,vue,typescript,javascript,nodejs,php,laravel,postgres,mysql,mongodb,docker,linux,git,githubactions" />
 </div>
+
+## Áreas de atuação
+
+- Desenvolvimento Full Stack
+- Arquitetura de Software
+- Integração entre Sistemas
+- APIs e Webhooks
+- Automação de Processos
+- DevOps e Sustentação de Ambientes
 
 ## GitHub Insights
 
