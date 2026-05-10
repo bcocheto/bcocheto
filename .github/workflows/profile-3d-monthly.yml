@@ -13,7 +13,7 @@ jobs:
     name: Monthly 3D Contribution Chart
     steps:
       - uses: actions/checkout@v2
-      - uses: bcocheto/github-profile-3d-contrib@0.6.0
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
