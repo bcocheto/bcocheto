@@ -8,7 +8,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/📍_Ametista_do_Sul-RS,_Brasil-004c99?style=for-the-badge" alt="Localização" />
-  <img src="https://img.shields.io/badge/💼_Digi2B-Full_Stack_%2F_Automação-d9731a?style=for-the-badge" alt="Trabalho" />
+  <img src="https://img.shields.io/badge/💼_OpusLab-Full_Stack_%26_Consultoria_Técnica-d9731a?style=for-the-badge" alt="Trabalho" />
 </p>
 
 <p>
@@ -34,7 +34,7 @@ Desenvolvo, integro e sustento aplicações web e ecossistemas de software **pon
 | 📊 **Dados** | PostgreSQL, ETL em Python, Grafana, Power BI e Qlik Sense |
 | 🧠 **Explorando agora** | Memória durável para agentes de código, com vault Obsidian |
 
-> 🔒 Boa parte do que construo (Digi2B, AI Connect e outros clientes) vive em repositórios privados. Por isso o gráfico público mostra só uma fração do trabalho.
+> 🔒 Atuo de forma independente pela **OpusLab** (consultoria e engenharia de software B2B). Boa parte do que construo para clientes vive em repositórios privados; por isso o gráfico público mostra só uma fração do trabalho.
 
 ---
 
