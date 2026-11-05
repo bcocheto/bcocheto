@@ -53,26 +53,12 @@ Desenvolvo, integro e sustento aplicações web e ecossistemas de software **pon
 
 ---
 
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/bcocheto/opencode-durable-knowledge"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=bcocheto&repo=opencode-durable-knowledge&theme=transparent&title_color=4da3ff&icon_color=d9731a&text_color=9aa4b2&hide_border=true" alt="opencode-durable-knowledge" /></a>
-<a href="https://github.com/bcocheto/gerenciador-serfo-backend"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=bcocheto&repo=gerenciador-serfo-backend&theme=transparent&title_color=4da3ff&icon_color=d9731a&text_color=9aa4b2&hide_border=true" alt="gerenciador-serfo-backend" /></a>
-
-<a href="https://github.com/bcocheto/gerenciador-serfo-frontend"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=bcocheto&repo=gerenciador-serfo-frontend&theme=transparent&title_color=4da3ff&icon_color=d9731a&text_color=9aa4b2&hide_border=true" alt="gerenciador-serfo-frontend" /></a>
-<a href="https://github.com/bcocheto/weather-viewer"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=bcocheto&repo=weather-viewer&theme=transparent&title_color=4da3ff&icon_color=d9731a&text_color=9aa4b2&hide_border=true" alt="weather-viewer" /></a>
-
-</div>
-
----
-
 ## 📈 GitHub em números
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=bcocheto&show_icons=true&theme=transparent&title_color=4da3ff&icon_color=d9731a&text_color=9aa4b2&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Estatísticas" />
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bcocheto&layout=compact&langs_count=10&theme=transparent&title_color=4da3ff&text_color=9aa4b2&hide_border=true" alt="Linguagens" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bcocheto&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,blade,shell,c&theme=transparent&title_color=4da3ff&text_color=9aa4b2&hide_border=true" alt="Linguagens" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bcocheto&theme=github_dark" alt="Repos por linguagem" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bcocheto&theme=github_dark&utcOffset=-3" alt="Horário produtivo" />
