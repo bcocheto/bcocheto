@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.98107613687517" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="195.98107613687517" y="0" width="119.37838024215907" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="315.3594563790342" y="0" width="60.85159810673129" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="376.21105448576554" y="0" width="46.498450432115526" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="422.7095049178811" y="0" width="37.29049508211895" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.2951087199373" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="196.2951087199373" y="0" width="119.23638776464766" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="315.531496484585" y="0" width="60.779219262604094" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="376.3107157471891" y="0" width="46.44314368256921" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="422.7538594297582" y="0" width="37.246140570241714" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>42.6%</div>
+                                <div>42.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,7 +48,7 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>13.23%</div>
+                                <div>13.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -59,7 +59,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>8.11%</div>
+                                <div>8.1%</div>
                             </small>
                         </div>
                     </section>
@@ -72,7 +72,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>25.95%</div>
+                                <div>25.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -83,7 +83,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>10.11%</div>
+                                <div>10.1%</div>
                             </small>
                         </div>
                     </section>
